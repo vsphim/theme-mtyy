@@ -28,4 +28,4 @@ https://github.com/vsphim/vsmov-core
 ### Custom View Blade
 - File blade gốc trong Package: `/vendor/vsmov/theme-mtyy/resources/views/thememtyy`
 - Copy file cần custom đến: `/resources/views/vendor/themes/thememtyy`
-# THEME - MTYY 2024 - OPHIM CMS
+# THEME - MTYY 2024 - VSMOV CMS
